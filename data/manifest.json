@@ -1,0 +1,18 @@
+{
+  "tickers": [
+    "TSLA",
+    "BND",
+    "SPY"
+  ],
+  "start_date": "2015-07-01",
+  "end_date": "2025-07-31",
+  "raw_files": {
+    "TSLA": "C:\\Users\\ltlid\\OneDrive\\Desktop\\Educational\\10 Academy\\Week 11\\Financial Forecasting & Portfolio Optimization\\data\\raw\\TSLA.csv",
+    "BND": "C:\\Users\\ltlid\\OneDrive\\Desktop\\Educational\\10 Academy\\Week 11\\Financial Forecasting & Portfolio Optimization\\data\\raw\\BND.csv",
+    "SPY": "C:\\Users\\ltlid\\OneDrive\\Desktop\\Educational\\10 Academy\\Week 11\\Financial Forecasting & Portfolio Optimization\\data\\raw\\SPY.csv"
+  },
+  "processed_files": {
+    "prices_adj": "C:\\Users\\ltlid\\OneDrive\\Desktop\\Educational\\10 Academy\\Week 11\\Financial Forecasting & Portfolio Optimization\\data\\processed\\prices_adj.csv",
+    "returns_daily": "C:\\Users\\ltlid\\OneDrive\\Desktop\\Educational\\10 Academy\\Week 11\\Financial Forecasting & Portfolio Optimization\\data\\processed\\returns_daily.csv"
+  }
+}
