@@ -71,7 +71,7 @@ plt.show()
 pd.Series(cleaned_weights).to_csv("outputs/task3_optimal_weights.csv")
 
 # Save performance metrics to a text file
-with open("outputs/task3_performance.txt", "w") as f:
+with open("../outputs/task3_performance.txt", "w") as f:
     f.write(str(performance))
 
 print("\nResults saved to outputs/ folder.")
